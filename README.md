@@ -28,13 +28,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/AI%20SW%20Student-FF5FA2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Growing%20Developer-FF8FB3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/INFP-FFB3C9?style=for-the-badge" />
 
-</div>
-
-<br>
 
 ---
 
