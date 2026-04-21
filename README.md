@@ -5,14 +5,17 @@
 # 💗 Hello, I'm Jeongjin 💗
 
 안녕하세요!  
-한신대학교 AISW학과 2학년 **이정진**입니다.
+저는 한신대학교 AISW학과를 재학 중인 2학년 **이정진**이라고 합니다
 
-아직은 배우는 것이 더 많은 학생 개발자이지만,  
-하나씩 공부하고 직접 만들어보면서 천천히 성장해가고 있습니다 🌱
+아직은 많이 부족하지만, 
+천천히 배우고 직접 해보면서 조금씩 성장해가고 있습니다 🌷
+
+열심히 배워서 사람들에게 도움이 되는  
+개발자가 되고 싶습니다.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=650&lines=AI%2FSW를+공부하고+있어요;매일+조금씩+성장하는+중입니다;사람들에게+도움이+되는+개발자가+되고+싶어요)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=650&lines=AI%2FSW를+공부하고+있어요;천천히+하지만+꾸준히+성장하는+중입니다;배우고+기록하며+나아가고+있어요)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +29,7 @@
 
 <div align="center">
 
-|  |  |
+| 💗 | 소개 |
 |---|---|
 | 이름 | 이정진 |
 | 학교 | 한신대학교 |
@@ -40,11 +43,14 @@
 
 <br>
 
-저는 밝은 성격을 가지고 있고, 다양한 사람들과 함께 이야기하고 협력하는 것을 좋아합니다.  
-아직 부족한 점도 많지만, 모르는 것을 하나씩 배워가며 직접 만들어보는 과정에서 성장하고 있습니다.
+저는 밝은 성격을 가지고 있는편이고 다양한 사람을 만나는 걸 좋아합니다. 
+여러 사람과 함께 이야기하고 협력하는 것을 좋아합니다.
+
+아직 모르는 것도 많고 부족한 부분도 많지만,  
+앞으로 발전하는 개발자가 되고 싶습니다 💗
 
 책을 읽으며 상상을 펼치는 것을 좋아하고,  
-새로운 아이디어를 떠올리고 그것을 직접 구현해보는 개발자가 되고 싶습니다 🌸
+새로운 아이디어를 떠올리는 것도 좋아합니다.
 
 <br>
 
@@ -59,20 +65,24 @@
 ### Language
 
 ![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFC8DD?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FADADD?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
+
+<br>
 
 ### Web
 
-![HTML5](https://img.shields.io/badge/HTML5-FF9AA2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-BDE0FE?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=333333)
+![HTML5](https://img.shields.io/badge/HTML5-FFC8DD?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFC8DD?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC8DD?style=for-the-badge&logo=javascript&logoColor=white)
+
+<br>
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F4A7B9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFCAD4?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-CDB4DB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F4A7B9?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-F4A7B9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -120,41 +130,10 @@
 <div align="center">
 
 ![Growing Developer](https://img.shields.io/badge/Growing%20Developer-FFB6C1?style=for-the-badge)
-![AI SW Student](https://img.shields.io/badge/AI%2FSW%20Student-FADADD?style=for-the-badge)
-![INFP](https://img.shields.io/badge/INFP-FFC8DD?style=for-the-badge)
-![Positive](https://img.shields.io/badge/Positive%20Energy-FF9AA2?style=for-the-badge)
-![Learning Everyday](https://img.shields.io/badge/Learning%20Everyday-F4A7B9?style=for-the-badge)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📁 Projects
-
-아직 많은 프로젝트를 완성한 것은 아니지만,  
-배운 내용을 직접 적용해보며 하나씩 만들어가고 있습니다.
-
-<br>
-
-### 💻 Campus Smart Hub
-
-학교 생활에 필요한 공지, 일정, 북마크 기능을 담은 웹 프로젝트입니다.
-
-- HTML / CSS / JavaScript 기반
-- 공지 확인 기능
-- 일정 관리 기능
-- 북마크 기능
-- GitHub Pages 배포
-
-<br>
-
-<div align="center">
-
-[![Campus Smart Hub](https://img.shields.io/badge/Campus%20Smart%20Hub-바로가기-FFB6C1?style=for-the-badge&logo=githubpages&logoColor=white)](https://lsch4435-code.github.io/campus_hub/)
+![AI SW Student](https://img.shields.io/badge/AI%2FSW%20Student-FFC8DD?style=for-the-badge)
+![INFP](https://img.shields.io/badge/INFP-FADADD?style=for-the-badge)
+![Positive Energy](https://img.shields.io/badge/Positive%20Energy-F4A7B9?style=for-the-badge)
+![Learning Everyday](https://img.shields.io/badge/Learning%20Everyday-FFB6C1?style=for-the-badge)
 
 </div>
 
@@ -168,12 +147,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lsch4435-code&show_icons=true&bg_color=fff5f8&title_color=F78FB3&text_color=6D4C5B&icon_color=FF8FAB&border_color=FFC8DD&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=lsch4435-code&show_icons=true&bg_color=fff0f5&title_color=FF69B4&text_color=D63384&icon_color=FF69B4&border_color=FFB6C1&hide_border=false" />
 
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsch4435-code&layout=compact&bg_color=fff5f8&title_color=F78FB3&text_color=6D4C5B&border_color=FFC8DD&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsch4435-code&layout=compact&bg_color=fff0f5&title_color=FF69B4&text_color=D63384&border_color=FFB6C1&hide_border=false" />
 
 </div>
 
@@ -186,11 +165,12 @@
 ## 🌸 My Goal
 
 처음부터 완벽한 개발자가 되기보다는,  
-어제보다 조금 더 이해하고, 오늘 배운 것을 기록하며,  
+어제보다 조금 더 이해하고,  
+오늘 배운 것을 기록하며,  
 내일은 더 나은 코드를 작성하는 사람이 되고 싶습니다.
 
-제가 만든 작은 프로젝트들이 쌓여서  
-언젠가는 누군가에게 도움이 되는 서비스가 되기를 바랍니다 💗
+조금 느리더라도 꾸준히 배우고 성장해서,  
+언젠가는 사람들에게 도움이 되는 개발자가 되고 싶습니다 💗
 
 <br>
 
@@ -204,7 +184,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-lsch4435%40gmail.com-FF8FAB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsch4435@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-내%20포트폴리오%20보기-FFC8DD?style=for-the-badge&logo=githubpages&logoColor=white)](https://lsch4435-code.github.io/campus_hub/)
+![Portfolio](https://img.shields.io/badge/Portfolio-Preparing%20Now-FFC8DD?style=for-the-badge&logo=githubpages&logoColor=white)
 
 </div>
 
