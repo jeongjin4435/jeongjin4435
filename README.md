@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Jeongjin Lee ♡
+
 
 안녕하세요.  
 저는 한신대학교 AISW학과를 재학 중인 2학년 **이정진**입니다.
