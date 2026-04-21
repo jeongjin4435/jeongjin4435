@@ -123,7 +123,7 @@
 | Activity | Description |
 |---|---|
 | DEL Lab | 다양한 활동 참여 중 |
-| NEXUS Program | 전공 관련 프로그램 참여 중 |
+| NEXUS Program | 전공 관련 프로그램 참여 완료 |
 | AI 창업 아이디어 경진대회 | 2025년 SW 중심대학 AI 창업 아이디어 경진대회 참가상 수상 |
 | Badminton Club | 배드민턴 동아리 활동 중 |
 | Student Council | 학생회 활동 중 |
