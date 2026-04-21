@@ -1,16 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF8FB3&height=230&section=header&text=Jeongjin's%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FF69B4&height=260&section=header&text=Jeongjin%20Lee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Hanshin%20University%20AISW%20Student&descSize=18&descAlignY=62&descAlign=50)
 
 <div align="center">
 
-# Jeongjin Lee ♡
+## Hi, I'm Jeongjin ₊˚⊹
 
-안녕하세요.  
-저는 한신대학교 AISW학과를 재학 중인 2학년 **이정진**입니다.
-
-아직은 배워가는 과정에 있지만,  
-하나씩 직접 해보고 기록하면서 개발자로 성장해가고 있습니다.
+한신대학교 **AISW학과 2학년 이정진**입니다.  
+작은 배움들을 하나씩 쌓아가며,  
+저만의 속도로 성장하는 개발자가 되고 있습니다.
 
 <br>
+
+<img src="https://img.shields.io/badge/AISW%20Student-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning%20Everyday-FF8FAB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INFP-FFB3C6?style=for-the-badge" />
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/AI-FF5FA2?style=flat-square" />
+<img src="https://img.shields.io/badge/Web-FF85B3?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Science-FFA6C9?style=flat-square" />
+<img src="https://img.shields.io/badge/Software-FFC1D6?style=flat-square" />
+
+</div>
+
+<br>
+
+---
 
 <img src="https://img.shields.io/badge/AI%20SW%20Student-FF5FA2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Growing%20Developer-FF8FB3?style=for-the-badge" />
